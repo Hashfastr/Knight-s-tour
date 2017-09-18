@@ -2,7 +2,7 @@
 Brute force method to solve the knight's tour problem, written in C.
 
 # How to compile
-`git clone https://github.com/Hashfastr/Knight-s-tour`
+`git clone https://github.com/Hashfastr/Knight-s-tour` <br>
 `make`
 
 # How to run
